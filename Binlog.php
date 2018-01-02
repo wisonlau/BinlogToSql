@@ -13,7 +13,7 @@ use \Exception;
 
 /**
  * Class Binlog
- * @package Binlog2sql
+ * @package BinlogToSql
  */
 class Binlog
 {
