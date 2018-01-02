@@ -1,5 +1,5 @@
 {
-  "name": "wisonlau/binlog2sql",
+  "name": "wisonlau/binlogtosql",
   "description": "A tool to change binlog to sql",
   "license": "MIT",
   "authors": [
