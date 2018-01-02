@@ -10,7 +10,7 @@ namespace BinlogToSql;
 
 /**
  * Class Conf
- * @package Binlog2sql
+ * @package BinlogToSql
  */
 class Conf
 {
